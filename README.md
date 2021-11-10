@@ -1,6 +1,4 @@
-# reservation-program
-
-## 스터디룸 예약 프로그램
+# 스터디룸 예약 프로그램(StudyRoom_Reservation_Program)
 
 도서관지점별로 운영하고 있는 무료 스터디룸들을 통합하여 예약할 수 있는 시스템을 구현하였습니다.
 
