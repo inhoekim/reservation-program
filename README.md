@@ -12,5 +12,6 @@ CoreApi : 예약관련 모든 Core 처리 담당
 
 ## Deployment Environment 
 
-JAVA JDK-11 
+JAVA JDK-11,
+
 Oracle Database 18c Express Edition
